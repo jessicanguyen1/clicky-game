@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #FFCC00 !important;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.navbar a {
+    color:#00BFFF !important;
+    text-shadow: 5px 5px black;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 70px;
+}
+
