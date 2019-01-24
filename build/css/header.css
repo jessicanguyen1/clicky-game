@@ -1,6 +1,9 @@
 .navbar {
     background-color: #FFCC00 !important;
     font-family: 'Luckiest Guy', cursive;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
 }
 
 .navbar a {
