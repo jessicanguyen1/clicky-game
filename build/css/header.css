@@ -10,3 +10,12 @@
     font-size: 70px;
 }
 
+h3 {
+    color:#00BFFF !important;
+    text-shadow: 2px 2px black;
+    font-size: 34px;
+}
+
+.score-divider {
+    /* color: black; */
+}
