@@ -5,6 +5,7 @@
   }
   
   .image-wrapper > div {
+    transition: transform .2s;
     float: left;
     box-sizing: border-box;
     margin: 20px;
@@ -16,4 +17,11 @@
 
 img {
     width: 200px;
+}
+
+
+
+.image-wrapper > div:hover {
+  transform: scale(1.2); 
+  cursor: pointer;
 }
