@@ -1,6 +1,6 @@
 footer {
     background-color: #FFCC00 !important;
-    position: fixed;
+    /* position: fixed; */
     left: 0;
     bottom: 0;
     width: 100%;
@@ -10,4 +10,5 @@ footer {
     font-family: 'Luckiest Guy', cursive;
     text-shadow: 2px 2px black;
     padding-top: 30px;
+    clear: both;
 }
