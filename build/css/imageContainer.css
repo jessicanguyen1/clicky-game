@@ -1,6 +1,18 @@
-.image-container {
-    text-align: center;
-}
+.image-wrapper {
+    background: black;
+    max-width: 960px;
+    margin: auto;
+  }
+  
+  .image-wrapper > div {
+    float: left;
+    box-sizing: border-box;
+    margin: 20px;
+    width: 170px;
+    height: 170px;
+    background: #ccc;
+    border: solid 10px;
+  }
 
 img {
     width: 200px;
